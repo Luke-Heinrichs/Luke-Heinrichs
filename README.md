@@ -1,4 +1,6 @@
-### Hi there 👋
+- I'm currently learning about data analysis and statistical models on python
+- I'm currently working as a real estate data analysts
+- Pronouns: He/Him/His
 
 <!--
 **Luke-Heinrichs/Luke-Heinrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
